@@ -14,7 +14,7 @@ The service has only one endpoint, /users, that accept the following payload str
     "password": "verysecure"
   }]
 }
-``
+```
 
 The endpoint will accept POST requests with a valid payload on the address http://localhost:8010/users
 
