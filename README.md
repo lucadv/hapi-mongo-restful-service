@@ -7,7 +7,7 @@ The service has only one endpoint, /users, that accept the following payload str
 {
   "users": [{
     "name": "Luca",
-    "surname": "Di Vincenzo"`,
+    "surname": "Di Vincenzo",
     "email": "luca.dv@gmail.com",
     "city": "Dallas",
     "state": "Texas",
